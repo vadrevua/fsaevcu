@@ -2451,6 +2451,7 @@
 		display: inline-block;
 		position: relative;
 		overflow: hidden;
+		margin: 10px;
 	}
 
 		.image:before {
@@ -3379,6 +3380,7 @@
 			#banner .content header {
 				display: inline-block;
 				vertical-align: middle;
+				text-align: center;
 			}
 
 				#banner .content header h2 {
